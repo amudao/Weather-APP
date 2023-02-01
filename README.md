@@ -1,5 +1,4 @@
-README file for Lab2
-Lab2: Building a web app using OPENWeather APi and a free API of our choosing. We are tasked of using OpenWeather API and another API to make a weather app that could be used to access the weather data
+ Building a web app using OPENWeather APi and a free API of our choosing. We are tasked of using OpenWeather API and another API to make a weather app that could be used to access the weather data
 at any given time. The goal of this lab was to determine and check our skills in using AJAX and JSON with the help of API.
 
 The part where I struggled the most was the API on its own. Using API's of any kind is a new approach that I had never worked withy before but it was a nice touch of innovation. Finding an APi that 
